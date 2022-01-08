@@ -1,0 +1,26 @@
+{
+    "name": "ezNotesBot",
+    "description": "Storing",
+    "repository": "https://github.com/its-Pradeep/ezNotesBot",
+    "env": {
+        "API_ID": {
+            "description": "",
+            "required": "True"
+        },
+        "API_HASH": {
+            "description": "",
+            "required": "True"
+        },
+        "BOT_TOKEN": {
+            "description": "",
+            "required": "True"
+        }
+    },
+    "stack": "heroku-20",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
