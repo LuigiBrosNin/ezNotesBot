@@ -1,7 +1,7 @@
 {
     "name": "ezNotesBot",
     "description": "Storing",
-    "repository": "https://github.com/its-Pradeep/ezNotesBot",
+    "repository": "https://github.com/luigibrosnin/ezNotesBot",
     "env": {
         "API_ID": {
             "description": "",
